@@ -1,4 +1,4 @@
-# Java-Spring
+# Java-Spring Application
 Build a web application using Spring framework and Java 21.
 
 **Some of the key requirements are the following:**
