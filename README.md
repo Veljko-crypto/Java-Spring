@@ -14,6 +14,7 @@ Build a web application using Spring framework and Java 21.
 5. Transformers should be applied in a given order and produce response with original and transformed values.
 
 **HOW-TO-USE**
+
 **transformerId** is a unique integer value that has a value of 1, 2 or 3. This value represents the transformer 1, transformer 2 and transformer 3, respectively.
 **groupId** is one of the following two values:
   - "Cyrillic" / "cyrillic"
