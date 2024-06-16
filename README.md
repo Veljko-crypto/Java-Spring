@@ -2,7 +2,7 @@
 Build a web application using Spring framework and Java 21.
 
 **Some of the key requirements are the following:**
-1. Application have an endpoint that accepts a collection of elements.
+1. Application has an endpoint that accepts a collection of elements.
 2. Each element represens a string value and list of transformers that will be applied to the value.
 3. Each transformer is identified by groupId and transformerId and may have optional parameters.
 4. Application has three transformers that can be applied to incoming elements values.
