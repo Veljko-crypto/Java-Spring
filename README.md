@@ -19,6 +19,7 @@ Build a web application using Spring framework and Java 21.
 **groupId** is one of the following two values:
   - "Cyrillic" / "cyrillic"
   - "Greek" / "greek"
+
 This value is only used for the third transformer where we want to separate two different languages: Serbian Cyrillic and Greek.
 
 For testing purposes, I've used Swagger on the following path: http://localhost:8080/swagger-ui/index.html#/
