@@ -1,5 +1,5 @@
 # Java-Spring
-Build a web application using Spring framework an Java 21.
+Build a web application using Spring framework and Java 21.
 
 **Some of the key requirements are the following:**
 1. Application have an endpoint that accepts a collection of elements.
