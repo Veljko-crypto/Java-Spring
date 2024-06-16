@@ -17,11 +17,7 @@ Build a web application using Spring framework and Java 21.
 
 **transformerId** is a unique integer value that has a value of 1, 2 or 3. This value represents the transformer 1, transformer 2 and transformer 3, respectively.
 
-**groupId** is one of the following two values:
-  - "Cyrillic" / "cyrillic"
-  - "Greek" / "greek"
-
-This value is only used for the third transformer where we want to separate two different languages: Serbian Cyrillic and Greek.
+**groupId** is an integer that represents the group that each transformer belongs to. String "value" will be modified grouped by all the transformers with the same groupId, then applied all the transformers with the increasing transformerId.
 
 For testing purposes, I've used Swagger on the following path: http://localhost:8080/swagger-ui/index.html#/
 
